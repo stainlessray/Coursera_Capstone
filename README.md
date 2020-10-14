@@ -2,7 +2,7 @@
 This repository will host the project capstone for IBM Data Science Professional Certificate Specialization on Coursera.
 
 <ol>
-### Links: <br>
+Links: <br>
 <a href='https://www.coursera.org/professional-certificates/ibm-data-science
 '>View specialization</a><br>
 
