@@ -8,8 +8,8 @@
  
 | Accuracy  | K-Neighbors | Score              |
 |-----------|-------------|--------------------|
-| Train Set | 8           | 0.7897386253630203 |
-| Test Set  | 8           | 0.7665505226480837 |
+| Train Set | 8           | 0.79               |
+| Test Set  | 8           | 0.77               |
 |           |             |                    |<br>
 
 | Jaccard | Result |
