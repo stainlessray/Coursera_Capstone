@@ -1,6 +1,6 @@
 ## Our Results
 <p>
- To give you an idea just how extreme the dimension of the data surrounding conditions is we produced a matrix of correlation that to even trained eyes, the visual is strikingly confusing. Because nothing about these individual nuggets is directly informative unless compared against the things that were missing in from comparison individually also.<br>
+
 
  To implement modeling we construvted an algorithm to evaluate
  hyper parameters using Jaccard Score, 
@@ -18,7 +18,7 @@
 | Index   | 0.62   |
 | F1      | 0.77   |<br>
 
-
+ To give you an idea just how extreme the dimension of the data surrounding conditions is we produced a matrix of correlation that to even trained eyes, the visual is strikingly confusing. Because nothing about these individual nuggets is directly informative. Or, that is to say every detail is in fact a tiny bit related.<br> 
 
 <br>
  
