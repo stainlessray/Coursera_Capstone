@@ -2,6 +2,7 @@
 <p>
 
 
+
  To implement modeling we construvted an algorithm to evaluate
  hyper parameters using Jaccard Score, 
  Jaccard Index, and the accuracy of the model with normalized data, and a split for the training and testing sets of 90% and 10% of the data respectively. <br>
