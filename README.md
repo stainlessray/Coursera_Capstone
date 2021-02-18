@@ -11,6 +11,6 @@ Links: <br>
 
 ####  Final Report
 
-  <a href='https://github.com/stainlessray/Coursera_Capstone/blob/main/report/INTRODUCTION.md'>To view the report start here</a>
+  <a href='https://github.com/stainlessray/Coursera_Capstone/blob/main/report/INTRODUCTION.md'>To view the report start here, and follow the links at the bottom of the pages</a>
 
   
