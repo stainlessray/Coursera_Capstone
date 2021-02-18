@@ -16,7 +16,7 @@
 | Index   | 0.62   |
 | F1      | 0.77   |<br>
 
- To give you an idea just how extreme the dimension of the data surrounding conditions is we produced a matrix of correlation that to even trained eyes, the visual is strikingly confusing. Because nothing about these individual nuggets is directly informative. by itself.<br> 
+ To give you an idea just how extreme the dimension of the data surrounding conditions is we produced a matrix of correlation that to even trained eyes, the visual is strikingly confusing. Because nothing about these individual nuggets is directly informative, by itself.<br> 
 
 <br>
 </p>
