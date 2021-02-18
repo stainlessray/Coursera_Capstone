@@ -11,7 +11,7 @@ Links: <br>
 
 #### Final Report
 <ol>
-  <a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a>
+  <a href='https://github.com/stainlessray/Coursera_Capstone/tree/main/report'>View course</a>
 
   
 
