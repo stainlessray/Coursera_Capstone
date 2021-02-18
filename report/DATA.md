@@ -4,3 +4,5 @@
 
  Exploring the data bubbled up some surprises very early on. Of course we can help if we know the road is slippery right? Wrong. At least not in this state. The overwhelming majority of accidents of all severities occur during clear skies. Snow and ice don’t even make the top ten list. Who knew?<br>
 </p>
+
+<a href="https://github.com/stainlessray/Coursera_Capstone/blob/main/report/METHODOLOGY.md>Methods</>
