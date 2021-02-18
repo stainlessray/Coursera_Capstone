@@ -10,3 +10,5 @@ When all of the data is encoded and fit for modeling, the propensity for overfit
  
 We tested with a broad base of prediction algorithms. Some of them were: Support Vector Machine (SVM), Decision Tree, Logistic Regression, and finally K Nearest Neighbor classification (KNN). We adopted KNN in the end because it was much more reliable in reproduction, and it provided the best tolerance for a single dominant feature in the Severity grade distribution. The second tier severity quantifies accidents that are individually, not very impactful on road conditions. However, the tier two accident represents over two thirds of the datapoints in the sample. Why is that a problem? Looking at the predictions, several of the models took the easy way to high accuracy. They just predicted tier two exclusively. This lead to the appearance of high accuracy, but exceedingly high logloss. It wasn't predicting anything. It decided not to play the game! <br>
 </p>
+
+<a href="https://github.com/stainlessray/Coursera_Capstone/blob/main/report/DISCUSSION.md">Our thoughts</a>
