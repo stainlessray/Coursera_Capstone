@@ -11,7 +11,7 @@
 #### Interactive maps
 
 The maps provided with the public report (hat tip to folium maps python library) are clusters based on neighboring. If you hover over one of the cluster markers, you can see the impacted geographic area in a way that makes perfect sense. Zooming in, the clusters are reoriented, and the geographic area is dynamically adjusted to align with the impact of accidents completely naturally. That smells an aweful lot like corroboration of the proof of concept re - clustering via KNN. Everyone who points neighbor clustering tecniques at this information gets a strong signal back that you can not ignore location. Just look at the lines drawn and how they correlate to intersections and onramps/offramps. It is very easy to visualize the impact ripples this way. 
-
 <br>
-
 </p>
+
+<a href="https://github.com/stainlessray/Coursera_Capstone">Return to repository head</a>
