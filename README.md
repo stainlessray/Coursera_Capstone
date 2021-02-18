@@ -9,4 +9,12 @@ Links: <br>
 <a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a>
 </ol>
 
+#### Final Report
+<ol>
+  <a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a>
+
+  
+
+ 
+
 ## The project will be hosted here including images. 
