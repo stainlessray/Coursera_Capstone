@@ -1,6 +1,8 @@
 # Coursera_Capstone
 This repository will host the project capstone for IBM Data Science Professional Certificate Specialization on Coursera.
 
+#### A study of traffic complexity in Delaware
+
 <ol>
 Links: <br>
 <a href='https://www.coursera.org/professional-certificates/ibm-data-science'>View specialization</a><br>
