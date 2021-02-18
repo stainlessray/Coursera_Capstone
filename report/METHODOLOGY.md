@@ -1,11 +1,10 @@
 ## About the Methods
 <p>
-To begin we looked at the overall distribution of accidents throughout the state. The most populous of Delaware's three counties is Newcastle. It is also a major transportation hub for interstate travel because it hosts a very important section of the I-95 corrider stretching almost the entire length of the East Coast. Understanding the chaos
-inherent to volumous travel scenarios is challenging to say the least. And our dataset, while selected for it's comprehensiveness, has too much dimension taken whole cloth, to be of any benefit. <br>
+To begin we looked at the overall distribution of accidents throughout the state. The most populous of Delaware's three counties is Newcastle. It is also a major transportation hub for interstate travel because it hosts a very important section of the I-95 corrider which extends north and south from northern Delaware, and runs the length of the east coast. Understanding the chaos inherent to volumous travel scenarios is challenging to say the least. And our dataset, while selected for it's comprehensiveness, has too much dimension taken whole cloth, to be of any benefit. <br>
 
 ####  Dimension and fit
 
-So when all of the data are encoded and fit for modeling, the propensity for overfit jumps out at you. Combining a single general or datapoint (ex: zipcode), was effective at taming the model, but nowhere near accurate enough to be useful in prediction. The distribution of severity grades also give way to some new inferences about conditions as a predictor. So we bagan our machine learning exploration with the goal to find out what we could do about the initial take that - This data is <em>too</em> detailed!<br>
+When all of the data is encoded and fit for modeling, the propensity for overfit jumps out at you. Combining a single general datapoint (ex: zipcode), was effective at taming the model, but nowhere near accurate enough to be useful in prediction. The distribution of severity grades also give way to some new inferences about conditions as a predictor. So we bagan our machine learning exploration with the goal to find out what we could do about the initial take that - This data is <em>too</em> detailed!<br>
  
 ####  The algorithms 
  
