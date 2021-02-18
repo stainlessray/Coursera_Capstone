@@ -6,7 +6,9 @@ Links: <br>
 <a href='https://www.coursera.org/professional-certificates/ibm-data-science
 '>View specialization</a><br>
 
-<a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a>
+<a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a><br>
+
+<a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">View dataset on Kaggle.com</a>
 </ol>
 
 ####  Final Report
