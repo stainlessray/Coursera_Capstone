@@ -8,6 +8,8 @@
 
  It would be most useful as a non time based "when" component of an avoidance mechanism comprised also of, "why" (impending weather change or recent slowdown in traffic) and "where" (roadways and intersections affected) in real time. This would be useful, because at present most of us avoid rush hour, but, when it isn't rush hour, we do not assume any real time-cost savings, nor potential for grave harm in our route selection or any other part of trip planning where it could be useful. An individual is far less likely to apply this knowledge cognitively if weighed strictly on a 'travel time' basis. If it informed a route selection algorithm for navigation, it would be a silent enforcer of good common sense. AI can be mindful when a human is not. <br>
 
+#### Interactive maps
+
 The maps provided with the public report (hat tip to folium maps python library) are clusters based on neighboring. If you hover over one of the cluster markers, you can see the impacted geographic area in a way that makes perfect sense. Zooming in, the clusters are reoriented, and the geographic area is dynamically adjusted to align with the impact of accidents completely naturally. That smells an aweful lot like corroboration of the proof of concept re - clustering via KNN. Everyone who points neighbor clustering tecniques at this information gets a strong signal back that you can not ignore location. Just look at the lines drawn and how they correlate to intersections and onramps/offramps. It is very easy to visualize the impact ripples this way. 
 
 <br>
