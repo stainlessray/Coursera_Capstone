@@ -9,12 +9,8 @@ Links: <br>
 <a href='https://www.coursera.org/learn/applied-data-science-capstone'>View course</a>
 </ol>
 
-#### Final Report
-<ol>
+####  Final Report
+
   <a href='https://github.com/stainlessray/Coursera_Capstone/blob/main/report/INTRODUCTION.md'>To view the report start here</a>
 
   
-
- 
-
-## The project will be hosted here including images. 
