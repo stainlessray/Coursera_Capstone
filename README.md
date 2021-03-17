@@ -24,7 +24,7 @@ This project is being migrated to the cloud (AWS). <br>
 
 
 
-#### Ask me why this result is great, and I will happily explain my exctement ;).
+#### Ask me why this result is great, and I will happily explain my exctement ;)
  ![image](https://github.com/stainlessray/Coursera_Capstone/blob/main/images/knn_eval.png?raw=true)
 
   
