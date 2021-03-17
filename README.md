@@ -19,9 +19,8 @@ Links: <br>
   
   
 #### Project Migration
-This project is being migrated to the cloud (AWS). <br>
-You can see a sample of the content within AWS Beanstalk environment here:<br>
-<a href='https://www.raycool.dev/de-traffic/data'></a><br>
+This project is being migrated to the cloud (AWS). You can see a sample of the content within AWS Beanstalk environment here:<br>
+<a href='https://www.raycool.dev/de-traffic/data'></a>
 
 
 
